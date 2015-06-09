@@ -1,3 +1,11 @@
+# Temp files
+Makefile~
+*.c~
+*.mod.c
+.tmp*
+modules.order
+Module.symvers
+
 # Object files
 *.o
 *.ko

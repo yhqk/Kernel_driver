@@ -3,6 +3,7 @@ Makefile~
 *.c~
 *.mod.c
 .tmp*
+*.cmd
 modules.order
 Module.symvers
 
